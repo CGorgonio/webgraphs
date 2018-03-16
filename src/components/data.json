@@ -12,26 +12,9 @@
         "anchorBorderHoverThickness" : "4",
         "anchorHoverRadius":"7"
     },
-    "data": [
-        {
-            "label": "Toy(s)",
-            "value": "67"
-        },
-        {
-            "label": "Car(s)",
-            "value": "480"
-        },
-        {
-            "label": "Boy",
-            "value": "109"
-        },
-        {
-            "label": "Truck(s)",
-            "value": "81"
-        },
-        {
-            "label": "Police",
-            "value": "130"
-        }
+
+    "data":[
+        {"label":["Boy","Car(s)","Trucks"]},
+        {"value":["109","480","81"]}
     ]
 }
